@@ -1,3 +1,7 @@
+### [https://realweather-app.netlify.app/]
+
+## Styles copied from [https://github.com/rawfour/weather-app-react]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
